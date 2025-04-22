@@ -1,0 +1,707 @@
+{
+    "suc_khoe_benh_ly": [
+      {
+        "number": 1,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Tiểu đường Type 1 là do nguyên nhân nào?\nA. Chế độ ăn uống không lành mạnh\nB. Tuyến tụy không sản xuất đủ Insulin do di truyền hoặc tổn thương tụy\nC. Kháng Insulin do thừa cân béo phì\nD. Rối loạn nội tiết thời kỳ mang thai",
+        "answer": "B. Tuyến tụy không sản xuất đủ Insulin do di truyền hoặc tổn thương tụy",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 2,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Tiểu đường Type 2 chiếm khoảng bao nhiêu phần trăm số người mắc đái tháo đường?\nA. 50%\nB. 60%\nC. 75%\nD. Hơn 90%",
+        "answer": "D. Hơn 90%",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 3,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Tiểu đường thai kỳ thường kết thúc khi nào?\nA. Sau khi sinh\nB. Sau 6 tháng mang thai\nC. Sau giai đoạn tam cá nguyệt đầu\nD. Không bao giờ kết thúc",
+        "answer": "A. Sau khi sinh",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 4,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Tiền tiểu đường được định nghĩa khi đường huyết lúc đói nằm trong khoảng nào?\nA. 4.0–5.5 mmol/L\nB. 5.6–6.9 mmol/L\nC. 7.0–8.5 mmol/L\nD. Trên 8.0 mmol/L",
+        "answer": "B. 5.6–6.9 mmol/L",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 5,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Insulin được tiết ra bởi cơ quan nào?\nA. Gan\nB. Tuyến tụy\nC. Thận\nD. Ruột non",
+        "answer": "B. Tuyến tụy",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 6,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Biểu hiện “4 nhiều” của tiểu đường Type 1 bao gồm?\nA. Ăn nhiều, ngủ nhiều, chóng mặt, đau đầu\nB. Ăn nhiều, uống nhiều, gầy nhiều, đái nhiều\nC. Uống nhiều, đi tiểu ít, mệt nhiều, sốt cao\nD. Gầy nhiều, đau nhiều, ăn ít, khát ít",
+        "answer": "B. Ăn nhiều, uống nhiều, gầy nhiều, đái nhiều",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 7,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Xét nghiệm HbA1C phản ánh kiểm soát đường huyết trong bao lâu?\nA. 1 tháng\nB. 3–4 tháng\nC. 6 tháng\nD. 1 năm",
+        "answer": "B. 3–4 tháng",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 8,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Chỉ số HbA1C ≥ 6.5% được chẩn đoán là?\nA. Bình thường\nB. Tiền tiểu đường\nC. Đái tháo đường\nD. Hạ đường huyết",
+        "answer": "C. Đái tháo đường",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 9,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Sau ăn 2 giờ, đường huyết ở người bình thường không vượt quá?\nA. 6.0 mmol/L\nB. 7.8 mmol/L\nC. 10.0 mmol/L\nD. 11.0 mmol/L",
+        "answer": "B. 7.8 mmol/L",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 10,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Tăng huyết áp, rối loạn mỡ máu, tiểu đường liên kết với nhau trong vòng xoắn bệnh lý nào?\nA. Tam giác rủi ro\nB. Vòng xoắn bệnh lý\nC. Chu kỳ lắng đọng\nD. Mạch máu khó chịu",
+        "answer": "B. Vòng xoắn bệnh lý",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 11,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Biến chứng mạch máu lớn thường gặp ở tiểu đường là?\nA. Viêm da\nB. Bệnh mạch vành\nC. Loét chân\nD. Viêm thận",
+        "answer": "B. Bệnh mạch vành",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 12,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Biến chứng võng mạc do đái tháo đường có thể dẫn đến?\nA. Suy thận\nB. Mù lòa\nC. Bại liệt chân\nD. Viêm gan",
+        "answer": "B. Mù lòa",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 13,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Triệu chứng thần kinh ngoại vi trong tiểu đường là?\nA. Đau ngực\nB. Tê bì chân tay\nC. Đau đầu\nD. Mệt mỏi toàn thân",
+        "answer": "B. Tê bì chân tay",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 14,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Triệu chứng thần kinh thực vật của tiểu đường có thể là?\nA. Đổ mồ hôi, tụt huyết áp\nB. Chóng mặt khi đứng\nC. Nghẹt mũi\nD. Khô da",
+        "answer": "A. Đổ mồ hôi, tụt huyết áp",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 15,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Biến chứng suy thận ở tiểu đường là do tổn thương ở?\nA. Mạch máu lớn\nB. Mạch máu nhỏ cầu thận\nC. Thần kinh\nD. Da",
+        "answer": "B. Mạch máu nhỏ cầu thận",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 16,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Phương pháp đo đường huyết lúc đói yêu cầu nhịn ăn bao lâu?\nA. 4–6 giờ\nB. 8–10 giờ\nC. 12 giờ\nD. 2 giờ",
+        "answer": "B. 8–10 giờ",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 17,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. HbA1C được đo tại đâu?\nA. Tại nhà bằng kit thử\nB. Tại bệnh viện bằng xét nghiệm máu\nC. Bằng que thử nước tiểu\nD. Bằng máy đo huyết áp",
+        "answer": "B. Tại bệnh viện bằng xét nghiệm máu",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 18,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Mục đích chính của FOS trong dinh dưỡng tiểu đường là?\nA. Tăng ngọt\nB. Hỗ trợ miễn dịch và cải thiện tiêu hóa\nC. Tăng độ đặc\nD. Kích thích insulin",
+        "answer": "B. Hỗ trợ miễn dịch và cải thiện tiêu hóa",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 19,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Quản lý dinh dưỡng quan trọng nhất trong kiểm soát đái tháo đường là?\nA. Bỏ hoàn toàn tinh bột\nB. Chia nhỏ bữa ăn 4–6 bữa/ngày\nC. Ăn bổ sung nhiều ngọt\nD. Uống nhiều nước có ga",
+        "answer": "B. Chia nhỏ bữa ăn 4–6 bữa/ngày",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 20,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Trong bảng GI, nhóm thực phẩm có GI thấp cần có giá trị dưới?\nA. 35\nB. 50\nC. 65\nD. 80",
+        "answer": "B. 50",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 21,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Đặc điểm của Insulin là?\nA. Giảm đường máu\nB. Tăng đường máu\nC. Được tiết ra từ tụy\nD. Là hormon duy nhất giảm đường máu",
+        "answer": "A. Giảm đường máu; C. Được tiết ra từ tụy; D. Là hormon duy nhất giảm đường máu",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 22,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Những yếu tố nào làm tăng nguy cơ tiểu đường Type 2?\nA. Trên 40 tuổi\nB. Tiền sử gia đình mắc tiểu đường\nC. Hoạt động thể lực nhiều\nD. Hút thuốc lá",
+        "answer": "A. Trên 40 tuổi; B. Tiền sử gia đình mắc tiểu đường; D. Hút thuốc lá",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 23,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Chỉ số chẩn đoán đái tháo đường bao gồm?\nA. Đường huyết lúc đói ≥7.0 mmol/L\nB. HbA1C ≥6.5%\nC. Đường huyết sau ăn 2h ≥11.0 mmol/L\nD. Cholesterol toàn phần ≥200 mg/dL",
+        "answer": "A. Đường huyết lúc đói ≥7.0 mmol/L; B. HbA1C ≥6.5%; C. Đường huyết sau ăn 2h ≥11.0 mmol/L",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 24,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Trong biến chứng mạch máu nhỏ có?\nA. Viêm võng mạc\nB. Bệnh mạch vành\nC. Biến chứng thần kinh\nD. Bệnh lý bàn chân",
+        "answer": "A. Viêm võng mạc; C. Biến chứng thần kinh",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 25,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. 5 quy tắc dinh dưỡng cho người tiểu đường bao gồm?\nA. Chia nhỏ bữa ăn\nB. Uống nước 40 ml/kg/ngày\nC. Hạn chế tinh bột tinh luyện\nD. Ăn nhiều đường để tránh hạ đường huyết",
+        "answer": "A. Chia nhỏ bữa ăn; B. Uống nước 40 ml/kg/ngày; C. Hạn chế tinh bột tinh luyện",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 26,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Chế độ đĩa ăn cho người tiểu đường chia tỷ lệ?\nA. ½ đĩa rau củ\nB. ¼ đĩa tinh bột\nC. ¼ đĩa đạm\nD. 1/3 đĩa trái cây",
+        "answer": "A. ½ đĩa rau củ; B. ¼ đĩa tinh bột; C. ¼ đĩa đạm",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 27,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Canxi nano có ưu điểm?\nA. Hấp thu nhanh hơn canxi thường 200 lần\nB. Gây táo bón\nC. Không gây sỏi thận\nD. Là 50% CaCO₃",
+        "answer": "A. Hấp thu nhanh hơn canxi thường 200 lần; C. Không gây sỏi thận",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 28,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Triệu chứng nhiễm trùng ở bệnh nhân tiểu đường có thể gồm?\nA. Nhiễm trùng da\nB. Nhiễm trùng phổi\nC. Nhiễm trùng răng miệng\nD. Viêm gan siêu vi",
+        "answer": "A. Nhiễm trùng da; B. Nhiễm trùng phổi; C. Nhiễm trùng răng miệng",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 29,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Nguyên nhân tiểu đường thai kỳ?\nA. Rối loạn nội tiết khi mang thai\nB. Dinh dưỡng tăng cao\nC. Di truyền trực tiếp từ mẹ\nD. Kháng insulin tạm thời",
+        "answer": "A. Rối loạn nội tiết khi mang thai; B. Dinh dưỡng tăng cao; D. Kháng insulin tạm thời",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 30,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. HbA1C trên 6.5% cho thấy?\nA. Kiểm soát đường tốt\nB. Nguy cơ biến chứng cao\nC. Cần điều chỉnh điều trị\nD. Không cần theo dõi tiếp",
+        "answer": "B. Nguy cơ biến chứng cao; C. Cần điều chỉnh điều trị",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 31,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân Type 2 có đường huyết lúc đói 8.2 mmol/L, bạn sẽ?\nA. Giải thích bình thường\nB. Khuyên thăm khám và điều chỉnh thuốc\nC. Hạ liều Insulin\nD. Không cần can thiệp",
+        "answer": "B. Khuyên thăm khám và điều chỉnh thuốc",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 32,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân Type 1 có HbA1C 5.9% sau 4 tháng, đánh giá?\nA. Kiểm soát tốt\nB. Cần tăng liều thuốc\nC. Ngưng thuốc\nD. Xét nghiệm lại sau 1 năm",
+        "answer": "A. Kiểm soát tốt",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 33,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân tiểu đường hạ đường huyết cấp, bạn nên?\nA. Cho ăn bánh ngọt ngay\nB. Tiêm Insulin\nC. Gọi cấp cứu\nD. Cho uống nước lọc",
+        "answer": "A. Cho ăn bánh ngọt ngay",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 34,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân Type 2 mệt, tiểu nhiều, khát nhiều, bạn nghĩ?\nA. Hạ đường huyết\nB. Tăng đường huyết\nC. Bình thường\nD. Mất nước không liên quan",
+        "answer": "B. Tăng đường huyết",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 35,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân có tiền sử tiểu đường thai kỳ cần?\nA. Theo dõi đường huyết sau sinh\nB. Không cần theo dõi\nC. Ngừng mọi điều trị\nD. Tăng khẩu phần tinh bột",
+        "answer": "A. Theo dõi đường huyết sau sinh",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 36,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân Type 2 bị tê bì chân tay, bạn khuyên?\nA. Kiểm soát đường huyết tốt hơn\nB. Không liên quan đến tiểu đường\nC. Giảm vận động\nD. Uống nhiều nước ngọt",
+        "answer": "A. Kiểm soát đường huyết tốt hơn",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 37,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân tăng huyết áp kèm tiểu đường, cần quản lý?\nA. Chỉ đường huyết\nB. Đường huyết và huyết áp\nC. Chỉ huyết áp\nD. Không cần theo dõi",
+        "answer": "B. Đường huyết và huyết áp",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 38,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân tiểu đường có đổi ăn nhiều đồ ngọt, bạn khuyên?\nA. Thay bằng đồ GI thấp\nB. Tăng liều thuốc\nC. Ngưng ăn rau\nD. Uống đủ nước ngọt",
+        "answer": "A. Thay bằng đồ GI thấp",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 39,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân tiểu đường có loét bàn chân, bước đầu xử trí?\nA. Kháng sinh sớm\nB. Băng kín, chuyển viện\nC. Không can thiệp\nD. Tẩm thuốc tại nhà",
+        "answer": "A. Kháng sinh sớm",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 40,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Bệnh nhân Type 1 quên tiêm Insulin, bạn khuyên?\nA. Tiêm ngay\nB. Chờ đến liều kế tiếp\nC. Uống thêm đường\nD. Không can thiệp",
+        "answer": "A. Tiêm ngay",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 41,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Tứ chứng “______” là dấu hiệu đặc trưng của tiểu đường Type 1.\nA. 4 nhiều\nB. 4 ít\nC. 4 dày\nD. 4 yếu",
+        "answer": "A. 4 nhiều",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 42,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Chỉ số HbA1C trên ______% được xem là kiểm soát đường huyết không tốt.\nA. 5.7\nB. 6.0\nC. 6.5\nD. 7.0",
+        "answer": "C. 6.5",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 43,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Người bị tiền tiểu đường có HbA1C từ ______% đến 6.4%.\nA. 4.5\nB. 5.0\nC. 5.8\nD. 6.5",
+        "answer": "C. 5.8",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 44,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Đường huyết lúc đói trên ______ mmol/L chẩn đoán tiểu đường.\nA. 5.6\nB. 6.0\nC. 6.9\nD. 7.0",
+        "answer": "D. 7.0",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 45,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Đường huyết sau ăn 2 h trên ______ mmol/L chẩn đoán tiểu đường.\nA. 7.8\nB. 9.0\nC. 10.5\nD. 11.0",
+        "answer": "D. 11.0",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 46,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Chia nhỏ bữa ăn thành ______ bữa giúp ổn định đường huyết.\nA. 2–3\nB. 3–4\nC. 4–6\nD. 6–8",
+        "answer": "C. 4–6",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 47,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Uống đủ nước khoảng ______ ml/kg/ngày cho người tiểu đường.\nA. 20\nB. 30\nC. 40\nD. 50",
+        "answer": "C. 40",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 48,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Thức ăn có GI thấp là dưới ______.\nA. 35\nB. 50\nC. 65\nD. 80",
+        "answer": "B. 50",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 49,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Trong vòng xoắn bệnh lý, mỡ máu cao gây kháng Insulin và thúc đẩy ______.\nA. Hạ huyết áp\nB. Tiểu đường\nC. Tăng cơ\nD. Giảm cân",
+        "answer": "B. Tiểu đường",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 50,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Có khoảng ______% bệnh nhân tiểu đường không biết mình mắc bệnh.\nA. 45\nB. 55\nC. 65\nD. 75",
+        "answer": "C. 65",
+        "difficulty": "Khó"
+      }
+    ],
+    "thong_tin_san_pham": [
+      {
+        "number": 1,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Thành phần nào trong Diasure Gold giúp tăng độ nhạy Insulin?\nA. ALA\nB. Inositol\nC. Taurine\nD. FOS",
+        "answer": "B. Inositol",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 2,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Đường Isomalt trong sản phẩm có chỉ số GI khoảng?\nA. 2\nB. 25\nC. 50\nD. 75",
+        "answer": "A. 2",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 3,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Trong Diasure Gold, chất xơ chính là?\nA. Cellulose\nB. FOS\nC. Inulin\nD. Pectin",
+        "answer": "B. FOS",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 4,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Sữa dê Diabetic có thành phần đạm chính từ?\nA. Đạm đậu nành\nB. Đạm whey cô đặc và sữa dê nguyên kem\nC. Đạm đậu xanh\nD. Đạm thực vật",
+        "answer": "B. Đạm whey cô đặc và sữa dê nguyên kem",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 5,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Veganic không chứa?\nA. Lactose\nB. Chất xơ\nC. Vitamin nhóm B\nD. Hạt sen",
+        "answer": "A. Lactose",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 6,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Palatinose Pst-N là dạng đường hấp thụ?\nA. Nhanh\nB. Chậm\nC. Trung bình\nD. Không hấp thụ",
+        "answer": "B. Chậm",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 7,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Sữa non trong Diasure được nhập khẩu từ?\nA. Châu Âu\nB. Mỹ\nC. Úc\nD. New Zealand",
+        "answer": "B. Mỹ",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 8,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Omega-3 trong Diasure hỗ trợ phòng chống?\nA. Ung thư\nB. Bệnh lý tim mạch\nC. Nhiễm trùng da\nD. Hạ huyết áp",
+        "answer": "B. Bệnh lý tim mạch",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 9,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Thành phần nào giúp giảm nguy cơ loãng xương?\nA. Vitamin C\nB. Canxi nano và D3-K1\nC. Inositol\nD. Palatinose",
+        "answer": "B. Canxi nano và D3-K1",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 10,
+        "type": "Single choice Trắc nghiệm kiến thức",
+        "question": "Chọn câu trả lời đúng nhất. Hệ dưỡng chất kiểm soát đường huyết độc quyền có trong?\nA. Diasure Gold\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả",
+        "answer": "D. Tất cả",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 11,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Thành phần kiểm soát đường trong Diasure Gold gồm?\nA. Inositol\nB. Đường Isomalt\nC. Crom\nD. FOS",
+        "answer": "A. Inositol; B. Đường Isomalt; C. Crom",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 12,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Diasure Veganic có nguồn dưỡng chất từ?\nA. 8 loại hạt\nB. Sữa bò\nC. Sữa dê\nD. Không sữa động vật",
+        "answer": "A. 8 loại hạt; D. Không sữa động vật",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 13,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Sữa dê Diabetic chứa?\nA. Palatinose Pst-N\nB. Isomalt\nC. Oligosaccharides\nD. Hạt sen",
+        "answer": "A. Palatinose Pst-N; B. Isomalt; C. Oligosaccharides",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 14,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Trong Diasure Gold có các vitamin nào?\nA. A, D3, E\nB. B1, B2, B6\nC. K2 (MK7), Biotin\nD. Tất cả vitamin kể trên",
+        "answer": "D. Tất cả vitamin kể trên",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 15,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Thành phần nào hỗ trợ hệ miễn dịch?\nA. Sữa non\nB. FOS\nC. Crom\nD. Isomalt",
+        "answer": "A. Sữa non; B. FOS",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 16,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Cơ chế tác động của Diasure Gold bao gồm?\nA. Kiểm soát đường huyết\nB. Bổ sung xương khớp\nC. Tăng đề kháng\nD. Giảm cân cấp tốc",
+        "answer": "A. Kiểm soát đường huyết; B. Bổ sung xương khớp; C. Tăng đề kháng",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 17,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Khi pha sữa 1 ly 220ml cần?\nA. 200ml nước nóng 45–60°C\nB. 5 muỗng bột (~50g)\nC. Khuấy đều tới khi tan hết\nD. Thêm đường",
+        "answer": "A. 200ml nước nóng 45–60°C; B. 5 muỗng bột (~50g); C. Khuấy đều tới khi tan hết",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 18,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Ưu điểm của Diasure Veganic so với sữa động vật?\nA. Không chứa lactose\nB. Cung cấp chất xơ tự nhiên\nC. Hàm lượng đạm cao hơn sữa dê\nD. Thân thiện với người dị ứng sữa",
+        "answer": "A. Không chứa lactose; B. Cung cấp chất xơ tự nhiên; D. Thân thiện với người dị ứng sữa",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 19,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Trong Diasure Veganic có hoạt chất hỗ trợ buồng trứng đa nang là?\nA. D-chiro-inositol\nB. Isomalt\nC. Palatinose\nD. Crom",
+        "answer": "A. D-chiro-inositol",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 20,
+        "type": "Multiple choices Trắc nghiệm kiến thức",
+        "question": "Chọn các câu trả lời đúng nhất. Công dụng chung của dòng sữa Diasure gồm?\nA. Hỗ trợ kiểm soát đường huyết\nB. Tăng cường hệ miễn dịch\nC. Cải thiện xương khớp\nD. Giảm cân cấp tốc",
+        "answer": "A. Hỗ trợ kiểm soát đường huyết; B. Tăng cường hệ miễn dịch; C. Cải thiện xương khớp",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 21,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng muốn sữa thuần thực vật, bạn giới thiệu?\nA. Diasure Gold\nB. Sữa dê Diabetic\nC. Diasure Veganic\nD. None",
+        "answer": "C. Diasure Veganic",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 22,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng dị ứng sữa bò, muốn uống sữa động vật khác, bạn chọn?\nA. Diasure Veganic\nB. Sữa dê Diabetic\nC. Diasure Gold\nD. Không giới thiệu",
+        "answer": "B. Sữa dê Diabetic",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 23,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng loãng xương cần tăng canxi, bạn khuyên dùng?\nA. Diasure Gold\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả",
+        "answer": "A. Diasure Gold",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 24,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng cần bổ sung chất xơ và vi tảo, bạn chọn?\nA. Diasure Gold\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. None",
+        "answer": "B. Diasure Veganic",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 25,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng cần hương vanilla tự nhiên, bạn chọn?\nA. Sữa dê Diabetic\nB. Diasure Veganic\nC. Diasure Gold\nD. Tất cả",
+        "answer": "C. Diasure Gold",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 26,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng mong muốn hỗ trợ tim mạch, bạn hướng dẫn chọn?\nA. Diasure Gold\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. None",
+        "answer": "A. Diasure Gold",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 27,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng mới dùng sữa, muốn khẩu vị dịu nhẹ, bạn giới thiệu?\nA. Diasure Veganic\nB. Diasure Gold\nC. Sữa dê Diabetic\nD. Tất cả",
+        "answer": "A. Diasure Veganic",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 28,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng muốn tăng miễn dịch, bạn khuyên dùng?\nA. Diasure Gold\nB. Sữa dê Diabetic\nC. Diasure Veganic\nD. Tất cả",
+        "answer": "D. Tất cả",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 29,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng có hội chứng buồng trứng đa nang, bạn chọn?\nA. Sữa dê Diabetic\nB. Diasure Veganic\nC. Diasure Gold\nD. None",
+        "answer": "B. Diasure Veganic",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 30,
+        "type": "Single choice Trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Khách hàng cần bữa phụ dinh dưỡng dễ tiêu, bạn chọn?\nA. Diasure Veganic\nB. Diasure Gold\nC. Sữa dê Diabetic\nD. Không cần",
+        "answer": "A. Diasure Veganic",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 31,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Trong Diasure Gold, hoạt chất ALA là viết tắt của ______.\nA. Alpha Lipoic Acid\nB. Amino Linoleic Acid\nC. Acid Lactic Alpha\nD. Alpha Linolenic Acid",
+        "answer": "A. Alpha Lipoic Acid",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 32,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Veganic sử dụng đường chính là ______.\nA. Palatinose Pst-N\nB. Sucralose\nC. Glucose\nD. Lactose",
+        "answer": "A. Palatinose Pst-N",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 33,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Sữa dê Diabetic bổ sung chất xơ chính là ______.\nA. Inulin\nB. FOS\nC. Cellulose\nD. Pectin",
+        "answer": "A. Inulin",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 34,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Gold chứa vitamin K2 dưới dạng ______.\nA. MK4\nB. MK7\nC. K1\nD. K3",
+        "answer": "B. MK7",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 35,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Để pha 1 ly sữa 220ml cần khoảng ______g bột.\nA. 40\nB. 45\nC. 50\nD. 55",
+        "answer": "C. 50",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 36,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Hàm lượng năng lượng mỗi lần pha Diasure Veganic khoảng ______ kcal.\nA. 200\nB. 208\nC. 216\nD. 220",
+        "answer": "B. 208",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 37,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Sữa dê Diabetic có tỷ lệ đường thấp hơn sữa bò khoảng ______%.\nA. 5\nB. 10\nC. 15\nD. 20",
+        "answer": "C. 15",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 38,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Veganic bổ sung 8 loại hạt, trong đó không có hạt ______.\nA. Hạnh nhân\nB. Đậu ngự\nC. Hạt bí\nD. Gạo lứt đỏ",
+        "answer": "C. Hạt bí",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 39,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Crom phối hợp cùng Insulin giúp dung nạp ______.\nA. Lipid\nB. Glucose\nC. Protein\nD. Vitamin",
+        "answer": "B. Glucose",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 40,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Đường Isomalt có năng lượng ______ kcal/g.\nA. 1\nB. 2\nC. 3\nD. 4",
+        "answer": "B. 2",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 41,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Veganic sử dụng hương liệu tổng hợp vị ______.\nA. Chuối\nB. Dâu\nC. Vanilla\nD. Socola",
+        "answer": "A. Chuối",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 42,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Đạm quý A2 trong sữa dê giúp ______ tiêu hóa tốt hơn.\nA. Hạn chế\nB. Dễ\nC. Chậm\nD. Ngưng",
+        "answer": "B. Dễ",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 43,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Gold bổ sung ALA là viết tắt của ______.\nA. Alpha Linolenic Acid\nB. Alpha Lipoic Acid\nC. Amino Linoleic Acid\nD. Acid Lactic Alpha",
+        "answer": "B. Alpha Lipoic Acid",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 44,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Sữa non Diasure giúp tăng cường ______ toàn cơ thể.\nA. Huyết áp\nB. Miễn dịch\nC. Cholesterol\nD. Insulin",
+        "answer": "B. Miễn dịch",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 45,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Thành phần FOS trong Diasure có tác dụng cải thiện hệ ______.\nA. Tiêu hóa\nB. Tuần hoàn\nC. Hô hấp\nD. Thần kinh",
+        "answer": "A. Tiêu hóa",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 46,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Vitamin D3 trong Diasure hỗ trợ hấp thụ ______.\nA. Đạm\nB. Canxi\nC. Carbohydrate\nD. Chất béo",
+        "answer": "B. Canxi",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 47,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Omega-6 trong Diasure Veganic góp phần cải thiện ______.\nA. Triệu chứng ADHD\nB. Thị lực\nC. Tiêu hóa\nD. Giấc ngủ",
+        "answer": "A. Triệu chứng ADHD",
+        "difficulty": "Khó"
+      },
+      {
+        "number": 48,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Veganic dùng được cho người không dung nạp ______.\nA. Lactose\nB. Gluten\nC. Đạm nành\nD. Đạm sữa dê",
+        "answer": "A. Lactose",
+        "difficulty": "Dễ"
+      },
+      {
+        "number": 49,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Để kiểm soát đường huyết tốt, Diasure khuyên uống mỗi ngày ______ ly.\nA. 1\nB. 2–3\nC. 4–5\nD. ≥6",
+        "answer": "B. 2–3",
+        "difficulty": "Trung bình"
+      },
+      {
+        "number": 50,
+        "type": "Fill in the blank trắc nghiệm tình huống",
+        "question": "Chọn câu trả lời đúng nhất. Diasure Gold chứa bột hồng sâm giúp ______.\nA. Tăng đề kháng\nB. Giảm cân\nC. Tăng huyết áp\nD. Giảm canxi",
+        "answer": "A. Tăng đề kháng",
+        "difficulty": "Trung bình"
+      }
+    ]
+  }
+  
