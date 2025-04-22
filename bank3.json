@@ -1,0 +1,707 @@
+{
+    "suc_khoe_benh_ly": [
+        {
+            "number": 1,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Bệnh tiểu đường là gì?\nA. Một bệnh nhiễm trùng\nB. Một bệnh lý mãn tính do rối loạn chuyển hóa\nC. Một bệnh do thiếu vitamin\nD. Một bệnh do vi khuẩn",
+            "answer": "B. Một bệnh lý mãn tính do rối loạn chuyển hóa",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 2,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Insulin có vai trò gì trong cơ thể?\nA. Tăng cường hệ miễn dịch\nB. Giúp vận chuyển đường từ máu vào tế bào\nC. Điều hòa huyết áp\nD. Cung cấp năng lượng trực tiếp",
+            "answer": "B. Giúp vận chuyển đường từ máu vào tế bào",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 3,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các loại tiểu đường bao gồm:\nA. Tiểu đường type 1\nB. Tiểu đường type 2\nC. Tiểu đường thai kỳ\nD. Tiểu đường type 3",
+            "answer": "A. Tiểu đường type 1, B. Tiểu đường type 2, C. Tiểu đường thai kỳ",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 4,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 đến khám với chỉ số HbA1C là 7.5%, thường xuyên cảm thấy mệt mỏi và tê bì tay chân. Điều này cho thấy:\nA. Đường huyết được kiểm soát tốt\nB. Đường huyết chưa được kiểm soát tốt, có nguy cơ biến chứng\nC. Không cần điều chỉnh chế độ ăn uống\nD. Chỉ cần tăng vận động là đủ",
+            "answer": "B. Đường huyết chưa được kiểm soát tốt, có nguy cơ biến chứng",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 5,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 1 thường xuyên bị hạ đường huyết do quên ăn sau khi tiêm insulin. Nguyên nhân chính là do:\nA. Tuyến tụy không sản xuất đủ insulin\nB. Chế độ ăn không phù hợp với liều insulin\nC. Thiếu vận động\nD. Tác dụng phụ của thuốc",
+            "answer": "B. Chế độ ăn không phù hợp với liều insulin",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 6,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Tiểu đường type 1 thường gặp ở độ tuổi nào?\nA. Người lớn trên 40 tuổi\nB. Người trẻ dưới 30 tuổi\nC. Phụ nữ mang thai\nD. Người cao tuổi trên 60",
+            "answer": "B. Người trẻ dưới 30 tuổi",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 7,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các biến chứng thường gặp của tiểu đường bao gồm:\nA. Bệnh tim mạch\nB. Suy thận\nC. Mất thị lực\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 8,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 có chế độ ăn nhiều tinh bột và đường, gần đây thường xuyên khát nước và đi tiểu nhiều. Điều này có thể dẫn đến:\nA. Hạ đường huyết\nB. Tăng đường huyết và nguy cơ biến chứng\nC. Cải thiện sức khỏe\nD. Giảm cân nhanh chóng",
+            "answer": "B. Tăng đường huyết và nguy cơ biến chứng",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 9,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một phụ nữ mang thai được chẩn đoán tiểu đường thai kỳ, bác sĩ khuyên cần kiểm soát chế độ ăn để tránh biến chứng. Nguyên nhân chính của tình trạng này là:\nA. Di truyền\nB. Rối loạn hormone trong thai kỳ\nC. Thiếu vận động\nD. Ăn quá nhiều chất béo",
+            "answer": "B. Rối loạn hormone trong thai kỳ",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 10,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Chỉ số HbA1C phản ánh điều gì?\nA. Đường huyết lúc đói\nB. Đường huyết trung bình trong 3-4 tháng\nC. Mức insulin trong máu\nD. Huyết áp của bệnh nhân",
+            "answer": "B. Đường huyết trung bình trong 3-4 tháng",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 11,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Tiểu đường thai kỳ thường xảy ra ở đối tượng nào?\nA. Trẻ em\nB. Phụ nữ mang thai\nC. Người cao tuổi\nD. Nam giới",
+            "answer": "B. Phụ nữ mang thai",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 12,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các triệu chứng điển hình của tiểu đường type 1 bao gồm:\nA. Ăn nhiều\nB. Uống nhiều\nC. Đi tiểu nhiều\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 13,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Insulin được sản xuất bởi cơ quan nào?\nA. Gan\nB. Tụy\nC. Thận\nD. Tim",
+            "answer": "B. Tụy",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 14,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2, 50 tuổi, thừa cân và ít vận động, gần đây thấy mờ mắt và tê chân. Bác sĩ cần ưu tiên giải pháp nào?\nA. Tăng liều thuốc ngay lập tức\nB. Kiểm soát đường huyết và điều chỉnh lối sống\nC. Phẫu thuật mắt\nD. Bỏ qua triệu chứng vì không nghiêm trọng",
+            "answer": "B. Kiểm soát đường huyết và điều chỉnh lối sống",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 15,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 có chỉ số HbA1C 8%, bác sĩ khuyên cần thay đổi chế độ ăn và vận động vì:\nA. Đường huyết kiểm soát tốt\nB. Nguy cơ biến chứng cao\nC. Không cần dùng thuốc\nD. Chỉ số này bình thường",
+            "answer": "B. Nguy cơ biến chứng cao",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 16,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Nguyên nhân chính của tiểu đường type 1 là gì?\nA. Chế độ ăn không lành mạnh\nB. Tuyến tụy không sản xuất đủ insulin\nC. Béo phì\nD. Tăng huyết áp",
+            "answer": "B. Tuyến tụy không sản xuất đủ insulin",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 17,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các yếu tố nguy cơ của tiểu đường type 2 bao gồm:\nA. Thừa cân, béo phì\nB. Tiền sử gia đình mắc tiểu đường\nC. Ít vận động\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 18,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Chỉ số đường huyết lúc đói bình thường là bao nhiêu?\nA. Dưới 5.6 mmol/l\nB. Từ 5.6 đến 7 mmol/l\nC. Từ 7 đến 8 mmol/l\nD. Trên 8 mmol/l",
+            "answer": "A. Dưới 5.6 mmol/l",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 19,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 1, 25 tuổi, bị hạ đường huyết sau khi tiêm insulin mà không ăn sáng. Hành động cần làm ngay là:\nA. Tiếp tục nhịn ăn để kiểm soát đường huyết\nB. Cho bệnh nhân ăn hoặc uống thực phẩm chứa đường\nC. Đưa đi bệnh viện ngay lập tức\nD. Giảm liều insulin mà không hỏi ý kiến bác sĩ",
+            "answer": "B. Cho bệnh nhân ăn hoặc uống thực phẩm chứa đường",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 20,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 thường xuyên bị tê bì tay chân, bác sĩ kết luận đây là biến chứng do:\nA. Đường huyết tăng cao kéo dài\nB. Thiếu vitamin C\nC. Huyết áp thấp\nD. Ăn quá ít tinh bột",
+            "answer": "A. Đường huyết tăng cao kéo dài",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 21,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Tiểu đường type 2 chiếm bao nhiêu phần trăm trong tổng số ca tiểu đường?\nA. Hơn 50%\nB. Hơn 70%\nC. Hơn 90%\nD. Dưới 30%",
+            "answer": "C. Hơn 90%",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 22,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Biến chứng nào sau đây thuộc về mạch máu lớn?\nA. Suy thận\nB. Bệnh tim mạch\nC. Mất thị lực\nD. Tê bì chân tay",
+            "answer": "B. Bệnh tim mạch",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 23,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các biện pháp kiểm soát tiểu đường type 2 bao gồm:\nA. Chế độ ăn hợp lý\nB. Tập thể dục đều đặn\nC. Sử dụng thuốc theo chỉ định\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 24,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Chỉ số HbA1C trên bao nhiêu cho thấy kiểm soát đường huyết không tốt?\nA. 5.5%\nB. 6.0%\nC. 6.5%\nD. 7.0%",
+            "answer": "C. 6.5%",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 25,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2, 60 tuổi, có tiền sử tăng huyết áp và mỡ máu, gần đây thấy đau thắt ngực. Bác sĩ cần làm gì?\nA. Chỉ khuyên thay đổi chế độ ăn\nB. Đánh giá nguy cơ tim mạch và điều trị toàn diện\nC. Bỏ qua vì không liên quan tiểu đường\nD. Tăng liều thuốc tiểu đường ngay",
+            "answer": "B. Đánh giá nguy cơ tim mạch và điều trị toàn diện",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 26,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 1 bị gầy sút cân nhanh dù ăn nhiều, nguyên nhân là do:\nA. Insulin thiếu hụt nghiêm trọng\nB. Ăn không đủ chất\nC. Tập thể dục quá mức\nD. Nhiễm trùng",
+            "answer": "A. Insulin thiếu hụt nghiêm trọng",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 27,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Tiền tiểu đường được xác định khi đường huyết:\nA. Cao hơn bình thường nhưng chưa đủ chẩn đoán tiểu đường\nB. Dưới mức bình thường\nC. Bằng mức tiểu đường type 1\nD. Không đo được",
+            "answer": "A. Cao hơn bình thường nhưng chưa đủ chẩn đoán tiểu đường",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 28,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Biến chứng võng mạc mắt do tiểu đường gây ra triệu chứng gì?\nA. Đau nhức mắt\nB. Mờ mắt và mất thị lực\nC. Ngứa mắt\nD. Chảy nước mắt",
+            "answer": "B. Mờ mắt và mất thị lực",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 29,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các triệu chứng của tiểu đường type 2 bao gồm:\nA. Tê bì tay chân\nB. Mệt mỏi\nC. Nhìn mờ\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 30,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Đường huyết sau ăn của người bình thường là bao nhiêu?\nA. Dưới 5.6 mmol/l\nB. Dưới 7.8 mmol/l\nC. Từ 7.8 đến 10 mmol/l\nD. Trên 10 mmol/l",
+            "answer": "B. Dưới 7.8 mmol/l",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 31,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị loét bàn chân không lành, bác sĩ nhận định đây là biến chứng mạch máu ngoại vi. Hành động cần làm là:\nA. Chỉ băng bó tại nhà\nB. Khám và điều trị chuyên sâu để tránh cắt cụt chi\nC. Tăng liều thuốc tiểu đường\nD. Nghỉ ngơi nhiều hơn",
+            "answer": "B. Khám và điều trị chuyên sâu để tránh cắt cụt chi",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 32,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị tăng huyết áp và mỡ máu, bác sĩ khuyên cần kiểm soát đường huyết chặt chẽ vì:\nA. Tăng nguy cơ tim mạch\nB. Giảm cân nhanh\nC. Cải thiện thị lực\nD. Không liên quan đến biến chứng",
+            "answer": "A. Tăng nguy cơ tim mạch",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 33,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Biến chứng thần kinh do tiểu đường gây ra triệu chứng gì?\nA. Tê bì chân tay\nB. Đau đầu\nC. Sốt cao\nD. Huyết áp tăng",
+            "answer": "A. Tê bì chân tay",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 34,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Tiểu đường type 2 thường phát hiện muộn vì:\nA. Triệu chứng rõ ràng\nB. Triệu chứng không rõ ràng\nC. Không có biến chứng\nD. Chỉ đo đường huyết lúc đói",
+            "answer": "B. Triệu chứng không rõ ràng",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 35,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các nguyên nhân của tiểu đường type 2 bao gồm:\nA. Chế độ ăn không lành mạnh\nB. Béo phì\nC. Di truyền\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 36,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Quy tắc dinh dưỡng nào quan trọng cho người tiểu đường?\nA. Ăn ít bữa lớn\nB. Chia nhỏ bữa ăn\nC. Chỉ ăn tinh bột\nD. Không cần uống nước",
+            "answer": "B. Chia nhỏ bữa ăn",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 37,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 1 bị ngất do hạ đường huyết khi bỏ bữa sau tiêm insulin. Người nhà cần làm gì?\nA. Chờ bệnh nhân tự tỉnh\nB. Cho uống nước đường hoặc kẹo ngay\nC. Tiêm thêm insulin\nD. Đưa đi cấp cứu mà không xử lý trước",
+            "answer": "B. Cho uống nước đường hoặc kẹo ngay",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 38,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một phụ nữ sau sinh bị tiểu đường thai kỳ không kiểm soát tốt, giờ có nguy cơ cao tiến triển thành:\nA. Tiểu đường type 1\nB. Tiểu đường type 2\nC. Huyết áp cao\nD. Không có nguy cơ",
+            "answer": "B. Tiểu đường type 2",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 39,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Biến chứng suy thận ở bệnh nhân tiểu đường do đâu?\nA. Đường huyết thấp\nB. Đường huyết cao gây tổn thương mạch máu thận\nC. Thiếu đạm\nD. Uống ít nước",
+            "answer": "B. Đường huyết cao gây tổn thương mạch máu thận",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 40,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Đối tượng nào có nguy cơ cao mắc tiểu đường type 2?\nA. Người dưới 30 tuổi\nB. Người trên 40 tuổi\nC. Trẻ em\nD. Phụ nữ sau sinh",
+            "answer": "B. Người trên 40 tuổi",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 41,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Các biến chứng mạch máu lớn của tiểu đường bao gồm:\nA. Bệnh mạch vành\nB. Tai biến mạch máu não\nC. Bệnh lý bàn chân\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 42,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Lượng nước cần cung cấp mỗi ngày cho người tiểu đường là bao nhiêu?\nA. 20 ml/kg\nB. 40 ml/kg\nC. 60 ml/kg\nD. 80 ml/kg",
+            "answer": "B. 40 ml/kg",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 43,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị nhiễm trùng da kéo dài, bác sĩ nhận định đây là biến chứng do đường huyết không ổn định. Giải pháp ưu tiên là:\nA. Chỉ dùng kháng sinh\nB. Kiểm soát đường huyết và điều trị nhiễm trùng\nC. Tăng tinh bột trong khẩu phần\nD. Nghỉ ngơi mà không cần thuốc",
+            "answer": "B. Kiểm soát đường huyết và điều trị nhiễm trùng",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 44,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị tăng cholesterol do đường huyết cao, nguyên nhân là do:\nA. Gan không loại bỏ được LDL-c\nB. Ăn quá ít chất béo\nC. Thiếu vận động\nD. Uống nhiều nước",
+            "answer": "A. Gan không loại bỏ được LDL-c",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 45,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Thuốc nào thường được dùng để điều trị tiểu đường type 2?\nA. Insulin nhanh\nB. Metformin\nC. Vitamin C\nD. Thuốc hạ huyết áp",
+            "answer": "B. Metformin",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 46,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Biến chứng nào có nguy cơ gây tử vong cao nhất ở người tiểu đường?\nA. Suy thận\nB. Bệnh tim mạch\nC. Nhiễm trùng\nD. Mất thị lực",
+            "answer": "B. Bệnh tim mạch",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 47,
+            "type": "Multiple choices Trắc nghiệm kiến thức",
+            "question": "Chọn các câu trả lời đúng nhất. Quy tắc đĩa thức ăn cho người tiểu đường bao gồm:\nA. ½ đĩa là rau củ\nB. ¼ đĩa là tinh bột\nC. ¼ đĩa là đạm\nD. Tất cả các trên",
+            "answer": "D. Tất cả các trên",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 48,
+            "type": "Single choice Trắc nghiệm kiến thức",
+            "question": "Chọn câu trả lời đúng nhất. Tiểu đường được ví như gì trong tài liệu?\nA. Kẻ giết người thầm lặng\nB. Căn bệnh dễ chữa\nC. Bệnh không nguy hiểm\nD. Bệnh chỉ gặp ở trẻ em",
+            "answer": "A. Kẻ giết người thầm lặng",
+            "difficulty": "Dễ"
+          },
+          {
+            "number": 49,
+            "type": "Single choice Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị đột quỵ nhẹ, bác sĩ cần làm gì để ngăn tái phát?\nA. Chỉ kiểm soát huyết áp\nB. Kiểm soát đường huyết, huyết áp và mỡ máu\nC. Tăng tinh bột trong khẩu phần\nD. Ngừng dùng thuốc tiểu đường",
+            "answer": "B. Kiểm soát đường huyết, huyết áp và mỡ máu",
+            "difficulty": "Trung bình"
+          },
+          {
+            "number": 50,
+            "type": "Fill in the blank Trắc nghiệm tình huống",
+            "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 1 cần tiêm insulin thường xuyên vì:\nA. Tuyến tụy không sản xuất insulin\nB. Cơ thể kháng insulin\nC. Đường huyết thấp\nD. Chế độ ăn không hợp lý",
+            "answer": "A. Tuyến tụy không sản xuất insulin",
+            "difficulty": "Dễ"
+          }
+    ],
+    "thong_tin_san_pham": [
+        {
+          "number": 1,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Sản phẩm Diasure tiểu đường có đặc điểm gì nổi bật?\nA. Chỉ số GI cao\nB. Chỉ số GI thấp\nC. Không chứa dinh dưỡng\nD. Có nhiều đường mía",
+          "answer": "B. Chỉ số GI thấp",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 2,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Thành phần nào trong Diasure tiểu đường giúp tăng độ nhạy của cơ thể với insulin?\nA. Inositol\nB. Glucose\nC. Fructose\nD. Sucrose",
+          "answer": "A. Inositol",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 3,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các sản phẩm sữa tiểu đường của công ty bao gồm:\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 4,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2, 55 tuổi, muốn bổ sung dinh dưỡng nhưng lo ngại tăng đường huyết. Sản phẩm nào phù hợp nhất?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 5,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị dị ứng lactose, bác sĩ khuyên dùng sản phẩm nào để thay thế sữa bò?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Không cần thay thế",
+          "answer": "B. Diasure Veganic",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 6,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Diasure Veganic có thành phần chính từ đâu?\nA. Sữa bò\nB. Sữa dê\nC. 8 loại hạt dinh dưỡng\nD. Đường mía",
+          "answer": "C. 8 loại hạt dinh dưỡng",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 7,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các thành phần trong Diasure tiểu đường giúp kiểm soát đường huyết bao gồm:\nA. Inositol\nB. Isomalt\nC. Crom\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 8,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Sữa dê Diabetic có ưu điểm gì so với sữa bò?\nA. Hàm lượng đường thấp hơn\nB. Hàm lượng đường cao hơn\nC. Không chứa protein\nD. Khó tiêu hóa hơn",
+          "answer": "A. Hàm lượng đường thấp hơn",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 9,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị táo bón kéo dài khi dùng sữa bò, bác sĩ khuyên chuyển sang sản phẩm nào để cải thiện?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic với chất xơ Orafti\nD. Tiếp tục dùng sữa bò",
+          "answer": "C. Sữa dê Diabetic với chất xơ Orafti",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 10,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 muốn dùng sữa để thay thế bữa phụ, sản phẩm nào phù hợp?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 11,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Đường Isomalt trong các sản phẩm sữa tiểu đường có đặc điểm gì?\nA. Chỉ số GI cao\nB. Chỉ số GI thấp, hấp thu chậm\nC. Tăng đường huyết nhanh\nD. Không cung cấp năng lượng",
+          "answer": "B. Chỉ số GI thấp, hấp thu chậm",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 12,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Thành phần nào trong sữa dê Diabetic giúp kiểm soát đường huyết?\nA. Isomalt\nB. Palatinose Pst-N\nC. Inositol\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 13,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Thành phần Crom trong Diasure tiểu đường có tác dụng gì?\nA. Tăng đường huyết\nB. Hỗ trợ glucose vào tế bào\nC. Giảm hấp thu canxi\nD. Tăng cholesterol",
+          "answer": "B. Hỗ trợ glucose vào tế bào",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 14,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2, 60 tuổi, có tiền sử mỡ máu cao, muốn dùng sữa để hỗ trợ sức khỏe tim mạch. Sản phẩm nào phù hợp?\nA. Diasure tiểu đường với Omega-3\nB. Diasure Veganic với chất béo từ hạt\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 15,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị loãng xương, bác sĩ khuyên dùng sản phẩm nào để bổ sung canxi và vitamin D3?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 16,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Palatinose Pst-N trong sữa dê Diabetic có đặc điểm gì?\nA. Hấp thu nhanh\nB. Hấp thu chậm, chỉ số GI thấp\nC. Tăng insulin mạnh\nD. Không cung cấp năng lượng",
+          "answer": "B. Hấp thu chậm, chỉ số GI thấp",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 17,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các thành phần trong Diasure Veganic hỗ trợ xương khớp bao gồm:\nA. Canxi\nB. Vitamin D3\nC. Vitamin K1\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 18,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Sữa non trong Diasure tiểu đường được nhập khẩu từ đâu?\nA. Việt Nam\nB. Hoa Kỳ\nC. Đức\nD. Nhật Bản",
+          "answer": "B. Hoa Kỳ",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 19,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 bị đầy bụng khi dùng sữa bò, bác sĩ khuyên chuyển sang sản phẩm nào để dễ tiêu hóa hơn?\nA. Diasure tiểu đường\nB. Diasure Veganic từ hạt\nC. Sữa dê Diabetic với đạm A2\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 20,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 muốn dùng sữa để tăng cường miễn dịch, sản phẩm nào phù hợp nhờ có FOS?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 21,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Omega-3 trong Diasure tiểu đường có tác dụng gì?\nA. Tăng đường huyết\nB. Bảo vệ tim mạch\nC. Giảm hấp thu canxi\nD. Tăng cân",
+          "answer": "B. Bảo vệ tim mạch",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 22,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Chất xơ FOS trong các sản phẩm sữa tiểu đường có lợi ích gì?\nA. Tăng đường huyết\nB. Cải thiện hệ tiêu hóa và miễn dịch\nC. Giảm đạm trong cơ thể\nD. Tăng cholesterol",
+          "answer": "B. Cải thiện hệ tiêu hóa và miễn dịch",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 23,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các thành phần trong sữa dê Diabetic hỗ trợ xương khớp bao gồm:\nA. Canxi\nB. Vitamin D3\nC. Vitamin K1\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 24,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Vitamin B12 trong sữa dê Diabetic có tác dụng gì?\nA. Tăng đường huyết\nB. Hỗ trợ chức năng thần kinh\nC. Giảm hấp thu canxi\nD. Tăng cholesterol",
+          "answer": "B. Hỗ trợ chức năng thần kinh",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 25,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2, 45 tuổi, bị mỡ máu cao và lo ngại tăng cân, hỏi bạn về việc dùng sữa. Bạn khuyên:\nA. Dùng Diasure Veganic và giảm tinh bột bữa chính\nB. Dùng sữa bò thông thường\nC. Không dùng sữa vì tăng cân\nD. Chỉ dùng sữa mà không cần điều chỉnh ăn uống",
+          "answer": "A. Dùng Diasure Veganic và giảm tinh bột bữa chính",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 26,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 hỏi bạn về sữa thay thế bữa sáng, sản phẩm nào phù hợp?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 27,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. D-chiro-inositol trong Diasure Veganic có tác dụng gì?\nA. Tăng cholesterol\nB. Tăng nhạy cảm với insulin\nC. Giảm đạm trong cơ thể\nD. Tăng đường huyết",
+          "answer": "B. Tăng nhạy cảm với insulin",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 28,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Sữa dê Diabetic chứa đạm nào dễ tiêu hóa?\nA. A1 ß-casein\nB. A2 ß-casein\nC. Đạm whey\nD. Đạm thông thường",
+          "answer": "B. A2 ß-casein",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 29,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các lợi ích của sữa Diasure tiểu đường bao gồm:\nA. Kiểm soát đường huyết\nB. Bảo vệ tim mạch\nC. Tăng cường miễn dịch\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 30,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Nhà máy sản xuất sữa đạt chuẩn nào?\nA. GMP\nB. ISO 9001\nC. HACCP\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 31,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 hỏi bạn liệu sữa có thể dùng cùng thuốc Metformin không. Bạn trả lời:\nA. Không dùng được vì tương tác thuốc\nB. Dùng được, cách thuốc 30 phút đến 1 giờ\nC. Chỉ dùng khi ngừng thuốc\nD. Dùng bất kỳ lúc nào",
+          "answer": "B. Dùng được, cách thuốc 30 phút đến 1 giờ",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 32,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 lo lắng về tăng cân khi dùng sữa, bạn khuyên nên:\nA. Dùng Diasure và tăng tinh bột\nB. Dùng Diasure và giảm tinh bột bữa chính\nC. Không dùng sữa\nD. Dùng sữa bò thay thế",
+          "answer": "B. Dùng Diasure và giảm tinh bột bữa chính",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 33,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Vitamin C trong Diasure Veganic có tác dụng gì?\nA. Tăng đường huyết\nB. Tăng cường miễn dịch\nC. Giảm canxi\nD. Tăng cholesterol",
+          "answer": "B. Tăng cường miễn dịch",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 34,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Orafti GR trong sữa dê Diabetic là gì?\nA. Đường tinh luyện\nB. Chất xơ hòa tan\nC. Chất béo\nD. Vitamin",
+          "answer": "B. Chất xơ hòa tan",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 35,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các thành phần trong Diasure tiểu đường hỗ trợ xương khớp bao gồm:\nA. Canxi nano\nB. Vitamin D3\nC. Vitamin K1\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 36,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Năng lượng của Diasure tiểu đường là bao nhiêu?\nA. 410 Kcal/100ml\nB. 500 Kcal/100ml\nC. 600 Kcal/100ml\nD. 700 Kcal/100ml",
+          "answer": "A. 410 Kcal/100ml",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 37,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 hỏi bạn liệu sữa có gây đầy bụng không. Bạn trả lời:\nA. Có, vì năng lượng cao\nB. Không, vì năng lượng thấp và cân đối dưỡng chất\nC. Chỉ gây đầy bụng nếu uống nhiều\nD. Chắc chắn gây đầy bụng",
+          "answer": "B. Không, vì năng lượng thấp và cân đối dưỡng chất",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 38,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 muốn dùng sữa lâu dài để duy trì sức khỏe, sản phẩm nào phù hợp?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 39,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Omega-6 trong Diasure tiểu đường có lợi ích gì?\nA. Giảm nguy cơ tim mạch\nB. Tăng đường huyết\nC. Giảm canxi\nD. Tăng cân",
+          "answer": "A. Giảm nguy cơ tim mạch",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 40,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Sữa dê Diabetic có hàm lượng oligosaccharides cao hơn sữa bò bao nhiêu lần?\nA. 2-3 lần\nB. 5-8 lần\nC. 10-12 lần\nD. Không cao hơn",
+          "answer": "B. 5-8 lần",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 41,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các lợi ích của Diasure Veganic bao gồm:\nA. Kiểm soát đường huyết\nB. Giảm nguy cơ loãng xương\nC. Tăng cường miễn dịch\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 42,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Canxi nano trong Diasure tiểu đường có ưu điểm gì?\nA. Hấp thu kém hơn canxi thường\nB. Hấp thu tốt hơn canxi thường 200 lần\nC. Gây táo bón\nD. Không ảnh hưởng xương",
+          "answer": "B. Hấp thu tốt hơn canxi thường 200 lần",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 43,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 hỏi bạn về việc dùng sữa khi đang điều trị tim mạch. Bạn khuyên:\nA. Không dùng vì ảnh hưởng tim\nB. Dùng Diasure Veganic cách thuốc 1-2 giờ\nC. Chỉ dùng sữa bò\nD. Ngừng thuốc để dùng sữa",
+          "answer": "B. Dùng Diasure Veganic cách thuốc 1-2 giờ",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 44,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 muốn dùng sữa để giảm tê bì chân tay, sản phẩm nào phù hợp nhờ hỗ trợ xương khớp?\nA. Diasure tiểu đường\nB. Diasure Veganic\nC. Sữa dê Diabetic\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 45,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Vitamin A trong Diasure Veganic có tác dụng gì?\nA. Tăng đường huyết\nB. Bảo vệ mắt và tăng miễn dịch\nC. Giảm đạm\nD. Tăng cholesterol",
+          "answer": "B. Bảo vệ mắt và tăng miễn dịch",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 46,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Năng lượng của sữa dê Diabetic là bao nhiêu?\nA. 409 Kcal/100ml\nB. 415 Kcal/100ml\nC. 500 Kcal/100ml\nD. 600 Kcal/100ml",
+          "answer": "A. 409 Kcal/100ml",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 47,
+          "type": "Multiple choices Trắc nghiệm kiến thức",
+          "question": "Chọn các câu trả lời đúng nhất. Các thành phần trong sữa dê Diabetic tăng cường miễn dịch bao gồm:\nA. FOS\nB. Vitamin nhóm B\nC. Oligosaccharides\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 48,
+          "type": "Single choice Trắc nghiệm kiến thức",
+          "question": "Chọn câu trả lời đúng nhất. Sữa Diasure tiểu đường phù hợp với đối tượng nào?\nA. Người tiểu đường\nB. Người có nguy cơ tiểu đường\nC. Người muốn bổ sung dinh dưỡng\nD. Tất cả các trên",
+          "answer": "D. Tất cả các trên",
+          "difficulty": "Dễ"
+        },
+        {
+          "number": 49,
+          "type": "Single choice Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 hỏi bạn liệu sữa có thể dùng qua ống sonde không. Bạn trả lời:\nA. Có, tất cả sản phẩm đều dùng được\nB. Không, chỉ phù hợp uống trực tiếp\nC. Chỉ Diasure dùng được\nD. Chỉ sữa dê Diabetic dùng được",
+          "answer": "B. Không, chỉ phù hợp uống trực tiếp",
+          "difficulty": "Trung bình"
+        },
+        {
+          "number": 50,
+          "type": "Fill in the blank Trắc nghiệm tình huống",
+          "question": "Chọn câu trả lời đúng nhất. Một bệnh nhân tiểu đường type 2 hỏi bạn về thời gian thấy hiệu quả của sữa, bạn trả lời nên dùng:\nA. Ngắn hạn 1 tháng\nB. Lâu dài như thực phẩm hàng ngày\nC. Chỉ khi đường huyết cao\nD. Không cần dùng lâu",
+          "answer": "B. Lâu dài như thực phẩm hàng ngày",
+          "difficulty": "Dễ"
+        }
+      ]
+  }
+  
