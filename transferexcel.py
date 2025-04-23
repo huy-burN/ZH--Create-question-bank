@@ -13,7 +13,7 @@ tab2_data = data.get("phần thông tin sản phẩm", [])
 tab1_df = pd.DataFrame(tab1_data, columns=["number", "type", "question", "answer", "difficulty"])
 tab2_df = pd.DataFrame(tab2_data, columns=["number", "type", "question", "answer", "difficulty"])
 
-# Write to Excel with two tabs
+# Write to Excel with two tabs using xlsxwriter
 with pd.ExcelWriter('output4.xlsx', engine='xlsxwriter') as writer:
     tab1_df.to_excel(writer, sheet_name='Phần sức khỏe bệnh lý', index=False)
     tab2_df.to_excel(writer, sheet_name='Phần thông tin sản phẩm', index=False)
