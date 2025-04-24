@@ -5,7 +5,7 @@ import pandas as pd
 with open('bankques.JSON', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-# Extract data for each tab
+# Extract data for each tabb
 tab1_data = data.get("phần sức khỏe bệnh lý", [])
 tab2_data = data.get("phần thông tin sản phẩm", [])
 
