@@ -9,7 +9,7 @@ with open('bankques.JSON', 'r', encoding='utf-8') as file:
 tab1_data = data.get("phần sức khỏe bệnh lý", [])
 tab2_data = data.get("phần thông tin sản phẩm", [])
 
-# Convert data to DataFrames
+# Convert data into DataFrames
 tab1_df = pd.DataFrame(tab1_data, columns=["number", "type", "question", "answer", "difficulty"])
 tab2_df = pd.DataFrame(tab2_data, columns=["number", "type", "question", "answer", "difficulty"])
 
