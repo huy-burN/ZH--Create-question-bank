@@ -19,3 +19,4 @@ with pd.ExcelWriter('output4.xlsx', engine='xlsxwriter') as writer:
     tab2_df.to_excel(writer, sheet_name='Phần thông tin sản phẩm', index=False)
 
 print("Excel file created successfully!")
+#
