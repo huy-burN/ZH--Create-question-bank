@@ -25,7 +25,7 @@ llm = Gemini(model="gemini-1")  # Replace with the correct Gemini model name
 # Create a conversational retrieval chain
 qa_chain = ConversationalRetrievalChain.from_llm(llm, retriever=vectorstore.as_retriever())
 
-# Chatbot loop
+# Chatbot
 print("Chatbot is ready! Type 'exit' to quit.")
 chat_history = []
 while True:
