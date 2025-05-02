@@ -19,7 +19,7 @@ texts = text_splitter.split_documents(documents)
 embeddings = OpenAIEmbeddings()
 vectorstore = FAISS.from_documents(texts, embeddings)
 
-# Initialize the Gemini models
+# Initialize the Gemini modelss
 llm = Gemini(model="gemini-1")  # Replace with the correct Gemini model name
 
 # Create a conversational retrieval chain
