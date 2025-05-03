@@ -10,7 +10,7 @@ from langchain.llms import Gemini
 pdf_path = "benhtieuduong.pdf"
 loader = PyPDFLoader(pdf_path)
 documents = loader.load_and_split()
-
+# documents = [doc for doc in documents if doc.page_content.strip()]  # Filter out empty pages
 # Split the text into manageable chunks
 text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
 texts = text_splitter.split_documents(documents)
@@ -22,7 +22,7 @@ vectorstore = FAISS.from_documents(texts, embeddings)
 # Initialize the Gemini modelsss
 llm = Gemini(model="gemini-1")  # Replace with the correct Gemini model name
 
-# Create a conversational retrieval chain
+# Create a conversational retrieval chains
 qa_chain = ConversationalRetrievalChain.from_llm(llm, retriever=vectorstore.as_retriever())
 
 # Chatbot
