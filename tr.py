@@ -18,7 +18,7 @@ texts = text_splitter.split_documents(documents)
 # Create embeddings and store them in a vector database
 embeddings = OpenAIEmbeddings()
 vectorstore = FAISS.from_documents(texts, embeddings)
-
+#he
 # Initialize the Gemini modelsss
 llm = Gemini(model="gemini-1")  # Replace with the correct Gemini model name
 
