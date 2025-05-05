@@ -22,7 +22,7 @@ vectorstore = FAISS.from_documents(texts, embeddings)
 # Initialize the Gemini modelsss
 llm = Gemini(model="gemini-1")  # Replace with the correct Gemini model name
 
-# Create a conversational retrieval chains
+# Create a conversational retrieval chains  
 qa_chain = ConversationalRetrievalChain.from_llm(llm, retriever=vectorstore.as_retriever())
 
 # Chatbot
@@ -35,3 +35,9 @@ while True:
     response = qa_chain({"question": query, "chat_history": chat_history})
     chat_history.append((query, response["answer"]))
     print(f"Bot: {response['answer']}")
+
+# Save the chat history to a file
+with open("chat_history.txt", "w") as f:
+    for question, answer in chat_history:
+        f.write(f"You: {question}\n")
+        f.write(f"Bot: {answer}\n")
