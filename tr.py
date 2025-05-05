@@ -41,3 +41,4 @@ with open("chat_history.txt", "w") as f:
     for question, answer in chat_history:
         f.write(f"You: {question}\n")
         f.write(f"Bot: {answer}\n")
+        #
